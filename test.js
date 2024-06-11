@@ -3,3 +3,9 @@ console.log("Kumar");
 console.log("Dixena");
 console.log("Midas institute of software technology");
 console.log("MIST");
+function add(a, b) {
+    return a + b;
+}
+if(true){
+    console.log(true);
+}
